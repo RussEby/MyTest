@@ -11,6 +11,6 @@
 
 <main>
 	<h1>Hello CodeSandbox</h1>
-	<h2>I've Made Changes</h2>
+	<h2>I've Made more Changes</h2>
 	<Button />
 </main>
